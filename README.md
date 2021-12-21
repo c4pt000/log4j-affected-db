@@ -1,3 +1,13 @@
+```
+snapshots to offline systems everyday
+
+don't keep logs on local company machines keep logs constantly offline or extremely secured remotely
+
+to prevent log4j vulnerability attacks
+
+and enforce local file polices on the drive using selinux enforcing policies and or apparmor where systems use apparmor instead of selinux
+```
+
 # CISA Log4j (CVE-2021-44228) Vulnerability Guidance #
 
 This repository provides
