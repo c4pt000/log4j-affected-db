@@ -6,6 +6,8 @@ don't keep logs on local company machines keep logs constantly offline or extrem
 to prevent log4j vulnerability attacks
 
 and enforce local file polices on the drive using selinux enforcing policies and or apparmor where systems use apparmor instead of selinux
+
+and concat tar.gz through split archives
 ```
 
 # CISA Log4j (CVE-2021-44228) Vulnerability Guidance #
