@@ -7,7 +7,7 @@ to prevent log4j vulnerability attacks
 
 and enforce local file polices on the drive using selinux enforcing policies and or apparmor where systems use apparmor instead of selinux
 
-and concat tar.gz through split archives
+and concat tar.gz through split archives with rsync
 ```
 
 # CISA Log4j (CVE-2021-44228) Vulnerability Guidance #
